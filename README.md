@@ -10,10 +10,10 @@ Download the package
 `go get github.com/Gacnt/myopenid`
 
 
-After package is downloaded, include it into your program by
+After package is downloaded, import it into your program by
 
 
-`include "github.com/Gacnt/myopenid"`
+`import "github.com/Gacnt/myopenid"`
 
 # Usage
 Then declare an `init` function and your 2 global variables in your package like so:
